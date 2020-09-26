@@ -23,17 +23,6 @@ theme
 
 ![](img/icon_raw.jpg){:relative_width="24" align="right" relative_margin_right="-9" relative_margin_top="42"}
 
-# 宣伝
-- 明日高専DJ部をやります (14:00〜) `#kosendj`
-- <https://kosendj-bu.in>
-- Twitchで配信するので気軽に聞きにきてください
-
-![](https://avatars1.githubusercontent.com/u/7091927){:relative_width="30"}
-
-# 最初に謝罪
-とてもじゃないけど5分で話せる内容ではないのでスーパー早口で話します。
-内容が気になる方は今日公開予定のブログ記事も読んでいただけるとありがたいです。
-
 # Itamaeとは？
 
 - Itamae は構成管理ツール
