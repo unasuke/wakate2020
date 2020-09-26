@@ -1,6 +1,7 @@
-# TODO: スライドのタイトル
+# wakate2020
 
-TODO: スライドの説明
+第53回情報科学若手の会での発表スライドです
+https://wakate.connpass.com/event/165723
 
 ## 作者向け
 
